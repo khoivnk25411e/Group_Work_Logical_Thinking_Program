@@ -1,0 +1,1 @@
+class MainWindowEx(Ui_MainWindow):

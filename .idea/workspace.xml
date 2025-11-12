@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e92c73a-b092-418e-9d67-511723ba19de" name="Changes" comment="" />
+    <list default="true" id="7e92c73a-b092-418e-9d67-511723ba19de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MainWindowEx.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainWindowEx.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "git-widget-placeholder": "Vo-Ngoc-Khoi",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -21,5 +27,8 @@
 }]]></component>
   <component name="TaskManager">
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MainWindowEx_py$MyApp.coverage" NAME="MyApp Coverage Results" MODIFIED="1762967777091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

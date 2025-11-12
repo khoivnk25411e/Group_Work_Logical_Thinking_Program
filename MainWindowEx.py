@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 class MainWindowEx(Ui_MainWindow):
 =======
+=======
+>>>>>>> Stashed changes
 from MainWindow import Ui_MainWindow
 
 
@@ -21,5 +24,9 @@ class MainWindowEx(Ui_MainWindow):
         self.lineEditC.clear()
         self.lineEditResult.clear()
         self.lineEditA.setFocus()
+<<<<<<< Updated upstream
+    
+>>>>>>> Stashed changes
+=======
     
 >>>>>>> Stashed changes

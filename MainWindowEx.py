@@ -19,6 +19,6 @@ class MainWindowEx(Ui_MainWindow):
         self.lineEditC.clear()
         self.lineEditResult.clear()
         self.lineEditA.setFocus()
-    def process_solve(self ):
+    def process_solve(self):
         pass
 

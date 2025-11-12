@@ -5,6 +5,7 @@ class MainWindowEx(Ui_MainWindow):
     def setupUi(self, MainWindow):
         super().setupUi(MainWindow)
         self.setupSignalandSlots()
+        self.MainWindow=MainWindow
     def setupSignalandSlots(self):
         self.pushButtonClose.clicked.connect(self.process_close)
         self.pushButtonClear.clicked.connect(self.process_clear)

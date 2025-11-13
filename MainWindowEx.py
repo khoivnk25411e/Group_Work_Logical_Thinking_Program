@@ -29,4 +29,4 @@ class MainWindowEx(Ui_MainWindow):
         b=int(self.lineEditB.text())
         c=int(self.lineEditC.text())
         value=ptb2(a,b,c)
-        pass
+        self.lineEditResult.setText(str(value))
